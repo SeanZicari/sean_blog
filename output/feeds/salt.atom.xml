@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/salt.atom.xml" rel="self"></link><id>/</id><updated>2013-09-18T00:00:00Z</updated><entry><title>Salt!!</title><link href="/salt.html" rel="alternate"></link><updated>2013-09-18T00:00:00Z</updated><author><name>Sean Zicari</name></author><id>tag:,2013-09-18:salt.html</id><summary type="html">&lt;div class="section" id="fun"&gt;
+&lt;h2&gt;Fun&lt;/h2&gt;
+&lt;p&gt;I'm learning salt at work, drawing heavily from the guy who wrote &lt;a class="reference external" href="http://hideo.bobbylikeslinux.net/salt-minecraft-fun.html"&gt;this&lt;/a&gt; blog entry. The guy is very smart.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>
