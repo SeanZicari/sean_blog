@@ -10,4 +10,4 @@ Salt!!
 Fun
 ===
 
-I'm learning salt at work, drawing heavily from the guy who wrote `this <http://hideo.bobbylikeslinux.net/salt-minecraft-fun.html>`_ blog entry. The guy is very smart.
+I'm learning salt at work, drawing heavily from Bobby Messemer's `blog entry <http://hideo.bobbylikeslinux.net/salt-minecraft-fun.html>`_.
